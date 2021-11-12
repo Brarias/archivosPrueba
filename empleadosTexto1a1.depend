@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1624311991 source:c:\users\braian\desktop\program 2021\empleadostexto1a1\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1624310999 c:\users\braian\desktop\program 2021\empleadostexto1a1\empleado.h
+
+1624312431 source:c:\users\braian\desktop\program 2021\empleadostexto1a1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"empleado.h"
+
